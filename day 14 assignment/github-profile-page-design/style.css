@@ -1,0 +1,59 @@
+.github-txt {
+  display: inline;
+  padding-left: 30%;
+  letter-spacing: 2px;
+}
+
+.body-bucket-1 {
+  background-color: #c5c5c5;
+  height: 100%;
+}
+
+.body-bucket-2 {
+  background-color: rgba(0, 0, 0, 0.782);
+  height: 388px;
+  width: 60%;
+  margin: 50px auto;
+  border-radius: 20px;
+}
+
+.body-bucket-4 {
+  background-color: rgba(0, 0, 0, 0.782);
+  width: 50%;
+  margin-top: 50px;
+  border-radius: 7px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.search-txt {
+  color: rgba(255, 255, 255, 0.542);
+  padding: 5px;
+  letter-spacing: 2px;
+  padding-left: 15px;
+}
+
+.body-bucket-5 {
+  /* padding-top: 100px; */
+  height: 100px;
+}
+
+.body-bucket-6 {
+  width: 65%;
+  background-color: rgba(0, 0, 0, 0.782);
+  height: 100%;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.body-bucket-7 {
+  height: 100px;
+}
+
+.body-bucket-8 {
+  width: 90%;
+  background-color: rgba(0, 0, 0, 0.782);
+  margin: 0 auto;
+  height: 100%;
+  border-radius: 10px;
+}

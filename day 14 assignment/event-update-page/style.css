@@ -1,0 +1,31 @@
+.bucket-1 {
+  margin-top: 50px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1.2px solid black;
+}
+
+.bucket-2 {
+  width: 90%;
+  margin: 50px auto;
+  /* display: flex; */
+  border: 1.2px solid black;
+}
+
+.image-1 {
+  border-radius: 50%;
+  height: 100%;
+  width: 100%;
+  padding: 10px;
+}
+
+.bucket-4 {
+  width: 90%;
+  margin: 50px auto;
+  border: 2px solid black;
+}
+
+.input-ele {
+  width: 50%;
+}
